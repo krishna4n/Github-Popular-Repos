@@ -1,0 +1,15 @@
+.selected-language {
+  border-radius: 10px;
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: transparent;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.inactive-language {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}

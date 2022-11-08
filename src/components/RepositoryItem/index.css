@@ -1,0 +1,48 @@
+.item-container {
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  margin: 10px;
+  font-family: Roboto;
+}
+.avatar-image {
+  height: 80px;
+  width: 80px;
+}
+.item-heading {
+  font-family: Roboto;
+  color: #e73959;
+  font-weight: bold;
+  font-size: 16px;
+}
+.icon {
+  height: 12px;
+  width: 15px;
+  margin-right: 10px;
+}
+.stars-container {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-left: -30px;
+}
+.forks-container {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-left: -30px;
+}
+.open-issues-container {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-left: -30px;
+}
+.count-container {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
